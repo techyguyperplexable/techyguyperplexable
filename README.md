@@ -1,1 +1,1 @@
-official for RisingOS For bluejay, and i kinda play with bootloaders
+official for RisingOS Revived For bluejay, and i kinda play with bootloaders
