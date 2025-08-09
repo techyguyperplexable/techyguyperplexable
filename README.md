@@ -1,1 +1,1 @@
-official for RisingOS Revived For bluejay, and i kinda play with bootloaders
+official for like crdroid and Evolution X, and i kinda play with bootloaders
